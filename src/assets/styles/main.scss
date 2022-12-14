@@ -1,0 +1,24 @@
+// Setup
+@import "setup/variables";
+@import "setup/functions";
+@import "setup/mixins";
+@import "setup/typography";
+
+// Basics
+@import "basics/helpers";
+@import "basics/layout";
+@import "basics/base";
+
+
+// PAGE
+@import "pages/home";
+
+
+
+// Components
+@import "components/header";
+@import "components/footer";
+@import "components/hero";
+@import "components/icon-cards";
+
+
